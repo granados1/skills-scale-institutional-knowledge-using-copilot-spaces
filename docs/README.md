@@ -17,8 +17,13 @@ Risks and communication are managed continuously. A risk register captures impac
 | **Project Manager (PM)** | Coordinates delivery, schedules, risks, and communications |
 | **Product Manager (PdM)** | Defines outcomes, prioritizes backlog, and measures success |
 | **Developers** | Implement features, write tests, contribute to design and estimation |
-| **QA/Testing** | Validate quality and acceptance criteria |
-| **Stakeholders** | Provide inputs and approvals |
+| **UX Designer** | Designs user flows, wireframes, and prototypes; validates usability |
+| **Business Analyst** | Elicits and documents requirements; bridges business and delivery teams |
+| **QA Lead** | Owns test strategy, executes testing, and signs off on release readiness |
+| **DevOps Engineer** | Maintains CI/CD pipelines, environments, and deployment reliability |
+| **Stakeholder Sponsor** | Provides strategic alignment, resources, and go/no-go decisions |
+
+> See [Roles & Personas](octoacme-roles-and-personas.md) for full role descriptions and cross-role collaboration details.
 
 ## Communication Cadence
 
@@ -38,6 +43,7 @@ Risks and communication are managed continuously. A risk register captures impac
 | [Project Planning](octoacme-project-planning.md) | Turning an approved initiative into a backlog and release plan |
 | [Execution & Tracking](octoacme-execution-and-tracking.md) | Day-to-day team rhythm, PR workflow, quality, and metrics |
 | [Roles & Personas](octoacme-roles-and-personas.md) | Detailed responsibilities and communication patterns per role |
+| [Project Roles Checklist](octoacme-project-roles-checklist.md) | Per-phase checklist for engaging the right roles during initiation, planning, execution, release, and retrospective |
 | [Risk Management & Communication](octoacme-risks-and-communication.md) | Risk register, stakeholder updates, and escalation paths |
 | [Release & Deployment](octoacme-release-and-deployment.md) | Pre-release checks, deployment checklist, and rollback playbook |
 | [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md) | Retrospective structure, action item tracking, and improvement culture |
